@@ -1,0 +1,13 @@
+---
+title: "Writing in the appropriate syntax"
+date: 2024-08-29
+---
+<html>
+<h1>Wriiting in the appropriate syntax is important.</h1)
+
+<p>Wriiting in the appropriate syntax is important. First, there are certian symbols and words that trigger different actions or signal different elements of a page.
+It is also important to write consistently so that other developers can read your script. this is helpful if you are handing off a project or need help debugging. 
+I learned that it is imperative to declare the doctype at the top of the document that contains your script. Let's see if this first try comes out corrently. If not, I'll try again and again! </p>
+
+<em>That's all for now; on to step 5!</em> 
+</html>
